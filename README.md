@@ -79,7 +79,7 @@ Business Intelligence & Analytics
 
 ## Dashboard Preview
 
-
+https://github.com/MGhodke764/Spotify-Music-Analysis/blob/main/Screenshot%202026-07-06%20024446.png
 
 ## Outcome
 This project demonstrates the ability to transform raw music streaming data into actionable insights using Power BI, showcasing skills in data analysis, business intelligence, and interactive dashboard development.

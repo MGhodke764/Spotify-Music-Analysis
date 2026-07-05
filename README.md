@@ -50,3 +50,39 @@ Speechiness
 Liveness
 
 Instrumentalness
+
+## Key Insights
+
+Identified the highest streamed songs and artists on Spotify.
+
+Analyzed how release dates impact streaming performance.
+
+Discovered monthly and daily streaming patterns.
+
+Compared music features of top-performing tracks.
+
+Visualized audience preferences through interactive dashboards.
+
+## Skills Demonstrated
+
+Data Cleaning & Transformation
+
+Data Modeling
+
+DAX Calculations
+
+Dashboard Design
+
+Data Visualization
+
+Business Intelligence & Analytics
+
+## Dashboard Preview
+
+
+
+## Outcome
+This project demonstrates the ability to transform raw music streaming data into actionable insights using Power BI, showcasing skills in data analysis, business intelligence, and interactive dashboard development.
+
+
+
